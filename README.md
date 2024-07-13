@@ -40,6 +40,9 @@ Trained on the Flickr8K dataset:
 - **Frameworks**: HTML, CSS, JavaScript .
 ![image](https://github.com/user-attachments/assets/9a733231-848a-4e83-9f42-58c308361ecb)
 
+![image](https://github.com/user-attachments/assets/b8dc6fcf-1014-4cae-8e35-412994f1b49b)
+
+
 ## Research Paper
 
 https://1drv.ms/w/c/5573114cc8880c16/QRYMiMhMEXMggFXGBgAAAAAAM23x0h2NdW24ow
